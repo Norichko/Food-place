@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Sushi Time",
+        "address": "ул. Суши 1",
+        "openingHours": "10:00-22:00",
+        "website": "https://sushitime.ru",
+        "socialLink": "https://instagram.com/sushitime",
+        "kitchenType": "Японская",
+        "location": {
+            "lat": 55.753086,
+            "lng": 37.610985
+        }
+    }, 6831b31b0b13124a853c2c6b
+    {
+        "name": "Burger Land",
+        "address": "ул. Бургерная 5",
+        "openingHours": "11:00-23:00",
+        "website": "https://burgerland.ru",
+        "socialLink": "https://burgerland.ru",
+        "kitchenType": "Американская",
+        "location": {
+            "lat": 55.748119, 
+            "lng": 37.613691
+        }
+    }, 6831b3460b13124a853c2c6c
+    {
+        "name": "La Pasta",
+        "address": "ул. Итальянская 3",
+        "openingHours": "12:00-22:00",
+        "website": "https://lapasta.it",
+        "socialLink": "https://instagram.com/lapasta",
+        "kitchenType": "Итальянская",
+        "location": {
+            "lat": 55.748175, 
+            "lng": 37.588023
+        }
+    }, 6831b3520b13124a853c2c6d
+    {
+        "name": "Роллы & Суши",
+        "address": "ул. Вкусная 7",
+        "openingHours": "11:00-00:00",
+        "website": "https://instagram.com",
+        "socialLink": "https://instagram.com",
+        "kitchenType": "Японская",
+        "location": {
+            "lat": 55.754504, 
+            "lng": 37.637859
+        }
+    } 6831b3690b13124a853c2c6e
+]
